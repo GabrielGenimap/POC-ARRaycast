@@ -1,0 +1,5 @@
+C:/Users/karakhanyan/Documents/POC Raycast/.utmp/RelWithDebInfo/3t4c2a1c/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/karakhanyan/Documents/POC Raycast/.utmp/RelWithDebInfo/3t4c2a1c/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/karakhanyan/Documents/POC Raycast/.utmp/RelWithDebInfo/3t4c2a1c/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/karakhanyan/Documents/POC Raycast/.utmp/RelWithDebInfo/3t4c2a1c/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/karakhanyan/Documents/POC Raycast/.utmp/RelWithDebInfo/3t4c2a1c/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
